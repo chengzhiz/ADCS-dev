@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#B3B3B3;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F2F2F2;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E6;stroke:#000000;stroke-miterlimit:10;}
+	.st3{font-family:'DINAlternate-Bold';}
+	.st4{font-size:104.9011px;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<rect y="0" class="st0" width="400" height="400"/>
+<polygon class="st1" points="262.43,292.72 200.56,241.96 139.47,292.72 165.5,167.5 116.5,208.5 173.5,98.5 200.56,103.26 
+	230.5,97.5 282.5,210.5 235.5,167.5 "/>
+<rect x="138.97" y="294" class="st2" width="123.89" height="104.9"/>
+<text transform="matrix(1 0 0 1 171.7431 384.9102)" class="st3 st4">C</text>
+<text transform="matrix(1 0 0 1 167.8758 231.7939)" class="st3 st4">D</text>
+<circle class="st1" cx="200.91" cy="53.89" r="52.45"/>
+<text transform="matrix(1 0 0 1 168.9256 86.0977)" class="st3 st4">A</text>
+<path class="st1" d="M148.69,53.89"/>
+<path class="st5" d="M148.69,53.89"/>
+<path class="st5" d="M148.69,53.89"/>
+<g>
+	<g>
+		<path class="st6" d="M148.69,53.89H81.18c-8.28,0-15,6.72-15,15v262.56c0,8.28,6.72,15,15,15h28.17"/>
+		<g>
+			<polygon points="95.3,364.96 103.17,346.45 95.3,327.93 139.19,346.45 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st6" d="M283.24,56h37.66c8.28,0,15,6.72,15,15v262.56c0,8.28-6.72,15-15,15h-58.02"/>
+		<g>
+			<polygon points="297.28,74.52 289.41,56 297.28,37.48 253.39,56 			"/>
+		</g>
+	</g>
+</g>
+</svg>
